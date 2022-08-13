@@ -2,7 +2,7 @@
 
 I'm currently learning Front-End technologies...
 
-I love algorithms, desgines and beautiful sites !
+I love algorithms, Maths and beautiful sites !
 
 
 <!--
