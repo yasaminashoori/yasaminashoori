@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media.giphy.com/media/4YsfMPYdy568xTzQHc/giphy.gif" height="100" /></a>Hi I'm Yasamin Ashoori 👋
+
+I'm currently learning Front-End technologies...
+
+I love algorithms, desgines and beautiful sites !
+
 
 <!--
 **yasaminashoori/yasaminashoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
