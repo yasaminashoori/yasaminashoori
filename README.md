@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🌱 I'm in my way to discovering my passion in programming world. <br>🔥  I love algorithms, Maths and beautiful sites !
+🌱 I'm on my way to discovering my passion in the programming world. <br>🔥  I love algorithms, Maths and beautiful sites !
 
 
 ## 🌐 Socials:
