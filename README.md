@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasaminashoori&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasaminashoori&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### Watch my contribution graph get eaten by the snake 🐍
+
+<img src="https://github.com/yasaminashoori/yasaminashoori/blob/d5e786fd5f9c224504ec91655e27f8c8ec9bb44d/github-contribution-grid-snake.svg" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
