@@ -53,5 +53,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-![snake svg]
-(https://github.com/yasaminashoori/yasaminashoori/blob/d5e786fd5f9c224504ec91655e27f8c8ec9bb44d/github-contribution-grid-snake.svg)
