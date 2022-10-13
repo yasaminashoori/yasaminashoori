@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/yasaminashoori/yasaminashoori/blob/d5e786fd5f9c224504ec91655e27f8c8ec9bb44d/github-contribution-grid-snake.svg" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
