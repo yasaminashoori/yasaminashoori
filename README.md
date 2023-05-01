@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yasamin-ashoori-b178531ab)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YasaminAshoori)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=linkedin&logoColor=white)](https://twitter.com/YasaminAshoori) -->
