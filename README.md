@@ -22,7 +22,8 @@ Hi there, I'm Yasamin Ashoori<a href="URL_REDIRECT" target="blank"><img align="c
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yasamin-ashoori-b178531ab)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YasaminAshoori)
+[![Twitter]()
+
 
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=linkedin&logoColor=white)](https://twitter.com/YasaminAshoori) -->
