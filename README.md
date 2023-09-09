@@ -21,8 +21,8 @@ Hi there, I'm Yasamin Ashoori<a href="URL_REDIRECT" target="blank"><img align="c
 
 
 ## 🌐 Socials:
-[![LinkedIn]()
-[![Twitter]()
+[![]()
+[![]()
 
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=linkedin&logoColor=white)](https://twitter.com/) -->
