@@ -18,7 +18,7 @@ Hi there, I'm Yasamin Ashoori<a href="URL_REDIRECT" target="blank"><img align="c
 - ⚡ Fun fact: ... -->
 
 
-#  🪄 About Me:
+#  ✨ About Me:
 🌱 I'm on my way to discovering my passion in the programming world. <br>🔥  I love algorithms, Maths, and beautiful sites!
 
 
